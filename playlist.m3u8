@@ -2458,7 +2458,7 @@ http://iptv.ktkru.ru:8010/index.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-name="СТС Ⓢ" tvg-logo="https://i.imgur.com/y9bpqUD.png" group-title="Russia",СТС Ⓢ
 http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1 tvg-name="Домашний Ⓢ" tvg-logo="https://i.imgur.com/e8wlMIt.png" group-title="Russia",Домашний ��
+#EXTINF:-1 tvg-name="Домашний Ⓢ" tvg-logo="https://i.imgur.com/e8wlMIt.png" group-title="Russia",Домашний Ⓢ
 http://iptv.ktkru.ru:8014/index.m3u8
 #EXTINF:-1 tvg-name="ТВ-3 Ⓢ" tvg-logo="https://i.imgur.com/kjaxZms.png" group-title="Russia",ТВ-3 Ⓢ
 http://iptv.ktkru.ru:8015/index.m3u8
@@ -3018,7 +3018,7 @@ http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TIS TV Ⓢ" tvg-logo="https://i.imgur.com/aC01GvC.png" group-title="Ukraine",TIS TV Ⓢ
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-#EXTINF:-1 tvg-name="Treti Cifrovoj ��" tvg-logo="https://i.imgur.com/nwRBxTR.png" group-title="Ukraine",Treti Cifrovoj Ⓢ
+#EXTINF:-1 tvg-name="Treti Cifrovoj Ⓢ" tvg-logo="https://i.imgur.com/nwRBxTR.png" group-title="Ukraine",Treti Cifrovoj Ⓢ
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
 #EXTINF:-1 tvg-name="Trofey Ⓢ" tvg-logo="https://i.imgur.com/3LSDHHJ.png" group-title="Ukraine",Trofey Ⓢ
 https://5db1ab4f970be.streamlock.net/live/smil:trofey.smil/playlist.m3u8
