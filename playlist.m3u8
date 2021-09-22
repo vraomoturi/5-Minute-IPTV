@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1632290894
+# Built on 1632291194
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -438,7 +438,7 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 https://s6.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png" group-title="France",L'Équipe
 https://s6.tntendirect.com/lequipe21/live/playlist.m3u8
-#EXTINF:-1 tvg-name="RMC D��couverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",RMC Découverte
+#EXTINF:-1 tvg-name="RMC Découverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",RMC Découverte
 https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Chérie 25" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="France",Chérie 25
 https://s6.tntendirect.com/cherie25/live/playlist.m3u8
@@ -3194,5 +3194,5 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-name="France 24 Spanish" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (ES)",France 24 Spanish
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-name="DW Español ���" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (ES)",DW Español Ⓢ
+#EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (ES)",DW Español Ⓢ
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
