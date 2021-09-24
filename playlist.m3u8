@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1632448821
+# Built on 1632448896
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -1192,7 +1192,7 @@ https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8
 #EXTINF:-1 tvg-name="RTV Oost Ⓢ" tvg-logo="https://i.imgur.com/8ropV29.png" group-title="Netherlands",RTV Oost Ⓢ
 https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
-#EXTINF:-1 tvg-name="Omroep Gelderland Ⓢ" tvg-logo="https://i.imgur.com/TPlyvUQ.png" group-title="Netherlands",Omroep Gelderland Ⓢ
+#EXTINF:-1 tvg-name="Omroep Gelderland ���" tvg-logo="https://i.imgur.com/TPlyvUQ.png" group-title="Netherlands",Omroep Gelderland Ⓢ
 http://web.omroepgelderland.nl/live/livetv.m3u8
 #EXTINF:-1 tvg-name="RTV Utrecht" tvg-logo="https://i.imgur.com/c0I24N6.png" group-title="Netherlands",RTV Utrecht
 http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
