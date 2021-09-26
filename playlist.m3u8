@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1632650098
+# Built on 1632650198
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -1462,7 +1462,7 @@ https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?_=16025
 https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 tvg-name="Izmail TV Ⓢ" tvg-logo="https://i.imgur.com/mpMjj7o.png" group-title="Ukraine",Izmail TV Ⓢ
 https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-name="K1 ���" tvg-logo="https://i.imgur.com/qhRurXG.png" group-title="Ukraine",K1 Ⓢ
+#EXTINF:-1 tvg-name="K1 Ⓢ" tvg-logo="https://i.imgur.com/qhRurXG.png" group-title="Ukraine",K1 Ⓢ
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1 tvg-name="Kratu Ⓢ" tvg-logo="https://i.imgur.com/NXqO1Qa.png" group-title="Ukraine",Kratu Ⓢ
 https://cdn10.live-tv.od.ua:8083/kratu/kratu-abr-lq/kratu/kratu-sub/chunks.m3u8
