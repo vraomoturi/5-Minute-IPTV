@@ -2910,7 +2910,7 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Rudana" tvg-logo="https://i.imgur.com/mu81qSc.png" group-title="Ukraine",Rudana
 https://live.rudana.com.ua/hls/stream_FHD.m3u8
-#EXTINF:-1 tvg-name="Simon Ⓢ" tvg-logo="https://i.imgur.com/RaVchcn.jpg" group-title="Ukraine",Simon Ⓢ
+#EXTINF:-1 tvg-name="Simon Ⓢ" tvg-logo="https://i.imgur.com/RaVchcn.jpg" group-title="Ukraine",Simon ��
 http://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 tvg-name="SK 1 Ⓢ" tvg-logo="https://i.imgur.com/wr0CN1l.png" group-title="Ukraine",SK 1 Ⓢ
 https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr-lq/playlist.m3u8
