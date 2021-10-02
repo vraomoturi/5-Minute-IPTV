@@ -2552,7 +2552,7 @@ http://iptv.ktkru.ru:8014/index.m3u8
 http://iptv.ktkru.ru:8015/index.m3u8
 #EXTINF:-1 tvg-name="Пятница! Ⓢ" tvg-logo="https://i.imgur.com/rS11zVB.png" group-title="Russia",Пятница! Ⓢ
 http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 tvg-name="Звезда Ⓢ" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="Russia",Звезда Ⓢ
+#EXTINF:-1 tvg-name="Звезда Ⓢ" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="Russia",Зв��зда Ⓢ
 http://iptv.ktkru.ru:8017/index.m3u8
 #EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
