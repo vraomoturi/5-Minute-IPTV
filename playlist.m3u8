@@ -1,53 +1,9 @@
 #EXTM3U
-# Built on 1635285322
-#EXTINF:-1 tvg-name="Porto Canal Ⓢ" tvg-logo="https://i.imgur.com/wsyvP2H.png" group-title="Portugal",Porto Canal Ⓢ
-https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-name="Первый канал Ⓢ" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Russia",Первый канал Ⓢ
-http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 tvg-name="Россия 1 Ⓢ" tvg-logo="https://i.imgur.com/WI6hKez.png" group-title="Russia",Россия 1 Ⓢ
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" group-title="Russia",Матч ТВ Ⓢ
-http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:-1 tvg-name="НТВ Ⓢ" tvg-logo="https://i.imgur.com/DtQX5P2.png" group-title="Russia",НТВ Ⓢ
-http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1 tvg-name="Пятый канал Ⓢ" tvg-logo="https://i.imgur.com/u8Q69D9.png" group-title="Russia",Пятый канал Ⓢ
-http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:-1 tvg-name="Россия-Культура Ⓢ" tvg-logo="https://i.imgur.com/S12gaLc.png" group-title="Russia",Россия-Культура Ⓢ
-http://iptv.ktkru.ru:8006/index.m3u8
-#EXTINF:-1 tvg-name="Россия-24 Ⓢ" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="Russia",Россия-24 Ⓢ
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 tvg-name="Карусель Ⓢ" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="Russia",Карусель Ⓢ
-http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1 tvg-name="ОТР Ⓢ" tvg-logo="https://i.imgur.com/QyZvT3e.png" group-title="Russia",ОТР Ⓢ
-http://iptv.ktkru.ru:8009/index.m3u8
-#EXTINF:-1 tvg-name="ТВ Центр Ⓢ" tvg-logo="https://i.imgur.com/ZP0D6Rd.png" group-title="Russia",ТВ Центр Ⓢ
-http://iptv.ktkru.ru:8010/index.m3u8
-#EXTINF:-1 tvg-name="Рен ТВ Ⓢ" tvg-logo="https://i.imgur.com/18TAzYV.png" group-title="Russia",Рен ТВ Ⓢ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 tvg-name="СТС Ⓢ" tvg-logo="https://i.imgur.com/y9bpqUD.png" group-title="Russia",СТС Ⓢ
-http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1 tvg-name="Домашний Ⓢ" tvg-logo="https://i.imgur.com/e8wlMIt.png" group-title="Russia",Домашний Ⓢ
-http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1 tvg-name="ТВ-3 Ⓢ" tvg-logo="https://i.imgur.com/kjaxZms.png" group-title="Russia",ТВ-3 Ⓢ
-http://iptv.ktkru.ru:8015/index.m3u8
-#EXTINF:-1 tvg-name="Пятница! Ⓢ" tvg-logo="https://i.imgur.com/rS11zVB.png" group-title="Russia",Пятница! Ⓢ
-http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 tvg-name="Звезда Ⓢ" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="Russia",Звезда Ⓢ
-http://iptv.ktkru.ru:8017/index.m3u8
-#EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="Russia",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ Ⓢ" tvg-logo="https://i.imgur.com/1WqIPOB.png" group-title="Russia",ТНТ Ⓢ
-http://iptv.ktkru.ru:8019/index.m3u8
-#EXTINF:-1 tvg-name="Муз-ТВ Ⓢ" tvg-logo="https://i.imgur.com/Ml3qqOF.png" group-title="Russia",Муз-ТВ Ⓢ
-http://iptv.ktkru.ru:8020/index.m3u8
+# Built on 1635285395
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
 https://youtu.be/ns8-5XKA0Ww
-#EXTINF:-1 tvg-name="San Marino Rtv" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="San Marino",San Marino Rtv
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1 tvg-name="San Marino Rtv Sport Ⓢ" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="San Marino",San Marino Rtv Sport Ⓢ
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" group-title="Australia",ABC
 https://c.mjh.nz/101002210221/
 #EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" group-title="Australia",TVSN
@@ -58,28 +14,6 @@ https://c.mjh.nz/101002210224/
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" group-title="Australia",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-name="Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Slovakia",Jednotka
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
-#EXTINF:-1 tvg-name="Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Slovakia",Dvojka
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
-#EXTINF:-1 tvg-name="Trojka" tvg-logo="https://i.imgur.com/wy4Nrxl.png" group-title="Slovakia",Trojka
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
-#EXTINF:-1 tvg-name=":O" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",:O
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=4
-#EXTINF:-1 tvg-name="RTVS" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",RTVS
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=6
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" group-title="Slovakia",NR SR
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=5
-#EXTINF:-1 tvg-name="JOJ" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Slovakia",JOJ
-https://nn.geo.joj.sk/live/hls/joj-720.m3u8
-#EXTINF:-1 tvg-name="JOJ Plus" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Slovakia",JOJ Plus
-https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:-1 tvg-name="WAU" tvg-logo="https://i.imgur.com/3M46moH.png" group-title="Slovakia",WAU
-https://nn.geo.joj.sk/live/hls/wau-540.m3u8
-#EXTINF:-1 tvg-name="Senzi" tvg-logo="https://i.imgur.com/W82dwzf.png" group-title="Slovakia",Senzi
-http://lb.streaming.sk/senzi/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="TA3 Ⓢ" tvg-logo="https://i.imgur.com/kPFBxc9.png" group-title="Slovakia",TA3 Ⓢ
-http://sktv-forwarders.7m.pl/get.php?x=TA3
 #EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Belarus",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-name="8 Kanal Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" group-title="Belarus",8 Kanal Vitebsk Ⓢ
@@ -104,18 +38,6 @@ https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-name="Vitebsk Telekanal" tvg-logo="https://i.imgur.com/FXAqELU.jpg" group-title="Belarus",Vitebsk Telekanal
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="RTV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" group-title="Slovenia",RTV SLO 1
-https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" group-title="Slovenia",RTV SLO 2
-https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV SLO 3" tvg-logo="https://i.imgur.com/WGUyj7r.png" group-title="Slovenia",RTV SLO 3
-https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Koper" tvg-logo="https://i.imgur.com/NQvOJNh.png" group-title="Slovenia",TV Koper
-https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Maribor" tvg-logo="https://i.imgur.com/tWf3dgf.png" group-title="Slovenia",TV Maribor
-https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="MMC TV" tvg-logo="https://i.imgur.com/yzETQJ4.png" group-title="Slovenia",MMC TV
-https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL-TVI" tvg-logo="https://i.imgur.com/xMhSvax.png" group-title="Belgium",RTL-TVI
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-name="La Une" tvg-logo="https://i.imgur.com/hJodwJt.png" group-title="Belgium",La Une
@@ -142,44 +64,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
 #EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" group-title="Belgium",VIJF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
-#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="Spain",La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="Spain",La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://i.imgur.com/j3SP4BS.png" group-title="Spain",Antena 3
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/c96d4179790c2af.ts
-#EXTINF:-1 tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" group-title="Spain",Cuatro
-https://limited09.todostreaming.es/live/tarson-livestream.m3u8
-#EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Spain",La Sexta
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9e5ed2b81a043b0.ts
-#EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://imgur.com/VSDsSTZ.png" group-title="Spain",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
-#EXTINF:-1 tvg-name="Canal Sur Andalucía Ⓨ" tvg-logo="https://imgur.com/WcVOXPr.png" group-title="Spain",Canal Sur Andalucía Ⓨ
-https://www.youtube.com/watch?v=QMM1xsaFlfg
-#EXTINF:-1 tvg-name="La 7 CYLTV" tvg-logo="https://i.imgur.com/o2FlMXP.png" group-title="Spain",La 7 CYLTV
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
-#EXTINF:-1 tvg-name="La 8 León" tvg-logo="https://imgur.com/mhK7EWO.png" group-title="Spain",La 8 León
-https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
-#EXTINF:-1 tvg-name="Televisión Canaria" tvg-logo="https://imgur.com/68LNS8e.png" group-title="Spain",Televisión Canaria
-https://rtvc-live1-rm.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-name="IB3 Global Ⓨ" tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Spain",IB3 Global Ⓨ
-https://www.youtube.com/watch?v=w2mhujR8Rrk
-#EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="https://imgur.com/xBeywIA.png" group-title="Spain",Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-name="Aragón TV" tvg-logo="https://imgur.com/8H3Q07b.png" group-title="Spain",Aragón TV
-https://streamer97.server.aranova.cloud/cls/live/aragontv_canal1/index.m3u8?vv=US&h=7gZBm9hQ48dov2oXHs3xLg&e=31363231363338323835&r=5693
-#EXTINF:-1 tvg-name="EITB1" tvg-logo="https://imgur.com/VBVu2bu.png" group-title="Spain",EITB1
-https://live-dvr.eitb-fastly.cross-media.es/live-content/etb1hd-hls/bitrate_4.m3u8?start=1621551672
-#EXTINF:-1 tvg-name="EITB2" tvg-logo="https://imgur.com/VBVu2bu.png" group-title="Spain",EITB2
-https://live-dvr.eitb-fastly.cross-media.es/live-content/etb2hd-hls/bitrate_4.m3u8?start=1621550091
-#EXTINF:-1 tvg-name="TV3 Cat" tvg-logo="https://imgur.com/rNQYHmx.png" group-title="Spain",TV3 Cat
-https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-name="3/24" tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Spain",3/24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-name="Bon Dia" tvg-logo="https://imgur.com/XaiP3nJ.png" group-title="Spain",Bon Dia
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-name="À Punt TV" tvg-logo="https://i.imgur.com/M88LoNl.png" group-title="Spain",À Punt TV
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Brazil",ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazil",COM Brasil
