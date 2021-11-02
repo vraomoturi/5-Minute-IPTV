@@ -3678,7 +3678,7 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" group-title="Russia",Матч ТВ Ⓢ
 http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:-1 tvg-name="НТВ Ⓢ" tvg-logo="https://i.imgur.com/DtQX5P2.png" group-title="Russia",НТВ ��
+#EXTINF:-1 tvg-name="НТВ Ⓢ" tvg-logo="https://i.imgur.com/DtQX5P2.png" group-title="Russia",НТВ Ⓢ
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1 tvg-name="Пятый канал Ⓢ" tvg-logo="https://i.imgur.com/u8Q69D9.png" group-title="Russia",Пятый канал Ⓢ
 http://iptv.ktkru.ru:8005/index.m3u8
