@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1636103908
+# Built on 1636104171
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -130,7 +130,7 @@ https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab0172
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
 #EXTINF:-1 tvg-name="ICI RDI" tvg-logo="https://i.imgur.com/jtyrp30.png" group-title="Canada",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-name="ICI Télé HD Ⓖ" tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="Canada",ICI Télé HD Ⓖ
+#EXTINF:-1 tvg-name="ICI Télé HD Ⓖ" tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="Canada",ICI Télé HD ���
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 #EXTINF:-1 tvg-name="TVA Ⓖ" tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="Canada",TVA Ⓖ
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
@@ -1424,7 +1424,7 @@ https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC World News ���" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK",BBC World News Ⓢ
+#EXTINF:-1 tvg-name="BBC World News Ⓢ" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK",BBC World News Ⓢ
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld
 #EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://i.imgur.com/RYgSSHl.png" group-title="UK",BBC World Service
 http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
