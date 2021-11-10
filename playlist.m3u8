@@ -2244,7 +2244,7 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Smash TV" tvg-logo="https://i.imgur.com/ZKF0fG3.png" group-title="Malta",Smash TV
 http://a3.smashmalta.com/hls/smash/smash.m3u8
-#EXTINF:-1 tvg-name="Первый ��анал Ⓢ" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Russia",Первый канал Ⓢ
+#EXTINF:-1 tvg-name="Первый канал Ⓢ" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Russia",Первый канал Ⓢ
 http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 tvg-name="Россия 1 Ⓢ" tvg-logo="https://i.imgur.com/WI6hKez.png" group-title="Russia",Россия 1 Ⓢ
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
