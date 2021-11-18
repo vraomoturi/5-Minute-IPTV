@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1637194337
+# Built on 1637194602
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -14,10 +14,6 @@ https://c.mjh.nz/101002210224/
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" group-title="Australia",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
-https://youtu.be/ns8-5XKA0Ww
 #EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Belarus",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-name="8 Kanal Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" group-title="Belarus",8 Kanal Vitebsk Ⓢ
@@ -42,16 +38,6 @@ https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-name="Vitebsk Telekanal" tvg-logo="https://i.imgur.com/FXAqELU.jpg" group-title="Belarus",Vitebsk Telekanal
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" group-title="Australia",ABC
-https://c.mjh.nz/101002210221/
-#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" group-title="Australia",TVSN
-https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
-#EXTINF:-1 tvg-name="ABC Me" tvg-logo="https://i.imgur.com/gBh54wY.png" group-title="Australia",ABC Me
-https://c.mjh.nz/101002210224/
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" group-title="Australia",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" group-title="Australia",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-name="RTL-TVI" tvg-logo="https://i.imgur.com/xMhSvax.png" group-title="Belgium",RTL-TVI
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-name="La Une" tvg-logo="https://i.imgur.com/hJodwJt.png" group-title="Belgium",La Une
@@ -78,30 +64,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
 #EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" group-title="Belgium",VIJF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
-#EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Belarus",1Mus
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-name="8 Kanal Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" group-title="Belarus",8 Kanal Vitebsk Ⓢ
-http://95.46.208.8:24433/art
-#EXTINF:-1 tvg-name="Belros Ⓢ" tvg-logo="https://i.imgur.com/HWqxjGl.png" group-title="Belarus",Belros Ⓢ
-https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-name="Belarus 24" tvg-logo="https://i.imgur.com/IyAScOh.jpg" group-title="Belarus",Belarus 24
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 tvg-name="Belarus 4 Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/TW6Ap71.png" group-title="Belarus",Belarus 4 Vitebsk Ⓢ
-http://95.46.208.8:26258/belarus4
-#EXTINF:-1 tvg-name="CTV Belarus Ⓢ" tvg-logo="https://i.imgur.com/Gz6mSGu.png" group-title="Belarus",CTV Belarus Ⓢ
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 tvg-name="Hawe TV Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/HOb5m5f.jpg" group-title="Belarus",Hawe TV Vitebsk Ⓢ
-http://95.46.208.8:26259/nashe
-#EXTINF:-1 tvg-name="Nastoyashcheye vremya Ⓢ" tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="Belarus",Nastoyashcheye vremya Ⓢ
-https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" group-title="Belarus",Pervyy Muzykal'nyy BY Ⓢ
-http://rtmp.one.by:1200
-#EXTINF:-1 tvg-name="Planeta RTR Ⓢ" tvg-logo="https://i.imgur.com/yqRuEJd.png" group-title="Belarus",Planeta RTR Ⓢ
-https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-name="Radio HIT Orsk" tvg-logo="https://i.imgur.com/e2RyN4r.jpg" group-title="Belarus",Radio HIT Orsk
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 tvg-name="Vitebsk Telekanal" tvg-logo="https://i.imgur.com/FXAqELU.jpg" group-title="Belarus",Vitebsk Telekanal
-https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Brazil",ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazil",COM Brasil
@@ -116,32 +78,6 @@ https://tv.unisc.br/hls/test.m3u8
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 tvg-name="RBC" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Brazil",RBC
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF:-1 tvg-name="RTL-TVI" tvg-logo="https://i.imgur.com/xMhSvax.png" group-title="Belgium",RTL-TVI
-https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1 tvg-name="La Une" tvg-logo="https://i.imgur.com/hJodwJt.png" group-title="Belgium",La Une
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8
-#EXTINF:-1 tvg-name="Tipik" tvg-logo="https://i.imgur.com/PVbVj8o.png" group-title="Belgium",Tipik
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8
-#EXTINF:-1 tvg-name="Club RTL" tvg-logo="https://i.imgur.com/e9GkFwY.png" group-title="Belgium",Club RTL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts
-#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.ts
-#EXTINF:-1 tvg-name="Plug RTL" tvg-logo="https://i.imgur.com/iAZZWkZ.png" group-title="Belgium",Plug RTL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.ts
-#EXTINF:-1 tvg-name="LN24" tvg-logo="https://i.imgur.com/hePpxnn.png" group-title="Belgium",LN24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:-1 tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="Belgium",BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-name="EEN" tvg-logo="https://i.imgur.com/66GQlc7.png" group-title="Belgium",EEN
-https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
-#EXTINF:-1 tvg-name="Canvas" tvg-logo="https://i.imgur.com/GQkhACx.png" group-title="Belgium",Canvas
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/09916e3a88db175.ts
-#EXTINF:-1 tvg-name="VTM" tvg-logo="https://i.imgur.com/fUxRP9x.png" group-title="Belgium",VTM
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28d3.ts
-#EXTINF:-1 tvg-name="VIER" tvg-logo="https://i.imgur.com/bFTXP2e.png" group-title="Belgium",VIER
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
-#EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" group-title="Belgium",VIJF
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
 #EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://i.imgur.com/H5yEbxf.png" group-title="Canada",CBC Toronto
 https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
 #EXTINF:-1 tvg-name="Citytv" tvg-logo="https://i.imgur.com/BlFNlHz.png" group-title="Canada",Citytv
@@ -208,20 +144,6 @@ https://hls.savoir.media/live/stream.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-name="Ici Television" tvg-logo="https://i.imgur.com/Z1b2TJD.png" group-title="Canada",Ici Television
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Brazil",ALL Sports Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazil",COM Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Brazil",SBT Ⓢ
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="AgroBrasil TV" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Brazil",AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-name="Futura" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/futura.jpg" group-title="Brazil",Futura
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Brazil",Record
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:-1 tvg-name="RBC" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Brazil",RBC
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1 tvg-name="JOJ Family" tvg-logo="https://i.imgur.com/IZHIAAj.png" group-title="Czech Republic",JOJ Family
 https://nn.geo.joj.sk/live/hls/family-540.m3u8
 #EXTINF:-1 tvg-name="Šlágr" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="Czech Republic",Šlágr
@@ -254,118 +176,6 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro Music Television Ⓢ" tvg-logo="https://i.imgur.com/a6S2Yo4.png" group-title="Czech Republic",Retro Music Television Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://i.imgur.com/H5yEbxf.png" group-title="Canada",CBC Toronto
-https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
-#EXTINF:-1 tvg-name="Citytv" tvg-logo="https://i.imgur.com/BlFNlHz.png" group-title="Canada",Citytv
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://i.imgur.com/qOutOWN.png" group-title="Canada",CTV Toronto
-https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 tvg-name="Global Toronto" tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="Canada",Global Toronto
-https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
-#EXTINF:-1 tvg-name="Global Calgary" tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="Canada",Global Calgary
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1 tvg-name="Global Edmonton" tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="Canada",Global Edmonton
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-#EXTINF:-1 tvg-name="TVO" tvg-logo="https://i.imgur.com/PkBPPcL.png" group-title="Canada",TVO
-https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.imgur.com/b8W3Aah.png" group-title="Canada",NTV
-http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012
-#EXTINF:-1 tvg-name="CHCH" tvg-logo="https://i.imgur.com/jYSXaga.png" group-title="Canada",CHCH
-http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841
-#EXTINF:-1 tvg-name="ONNtv Ontario" tvg-logo="https://i.imgur.com/zz5ST9K.png" group-title="Canada",ONNtv Ontario
-https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
-#EXTINF:-1 tvg-name="Star TV" tvg-logo="https://i.imgur.com/Ap54LCC.png" group-title="Canada",Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="Canada",CBC News
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-name="CTV News" tvg-logo="https://i.imgur.com/T3oBeiX.png" group-title="Canada",CTV News
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-name="Global News BC" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News BC
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Calgary" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Calgary
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-#EXTINF:-1 tvg-name="Global News Halifax" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Halifax
-https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Kingston" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Kingston
-https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Montreal" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Montreal
-https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Peterborough" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Peterborough
-https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Regina" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Regina
-https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Saskatoon" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Saskatoon
-https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Vancouver" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Vancouver
-https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8
-#EXTINF:-1 tvg-name="Global News Winnipeg" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Winnipeg
-https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
-#EXTINF:-1 tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/AbdFD0S.png" group-title="Canada",CPAC (EN)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-name="ICI RDI" tvg-logo="https://i.imgur.com/jtyrp30.png" group-title="Canada",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-name="ICI Télé HD Ⓖ" tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="Canada",ICI Télé HD Ⓖ
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
-#EXTINF:-1 tvg-name="TVA Ⓖ" tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="Canada",TVA Ⓖ
-https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
-#EXTINF:-1 tvg-name="Noovo" tvg-logo="https://i.imgur.com/BL9ziSJ.png" group-title="Canada",Noovo
-https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
-#EXTINF:-1 tvg-name="Télé Québec" tvg-logo="https://i.imgur.com/8grBWK9.png" group-title="Canada",Télé Québec
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-name="Savoir Média" tvg-logo="https://i.imgur.com/pa4wOVY.png" group-title="Canada",Savoir Média
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-name="CPAC (FR)" tvg-logo="https://i.imgur.com/AbdFD0S.png" group-title="Canada",CPAC (FR)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-name="Ici Television" tvg-logo="https://i.imgur.com/Z1b2TJD.png" group-title="Canada",Ici Television
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/SAOGSmL.png" group-title="Estonia",ETV Ⓖ
-http://sb.err.ee/live/etv.m3u8
-#EXTINF:-1 tvg-name="ETV2 Ⓖ" tvg-logo="https://i.imgur.com/wY6Pz37.png" group-title="Estonia",ETV2 Ⓖ
-http://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1 tvg-name="ETV+ Ⓖ" tvg-logo="https://i.imgur.com/L8fGd9d.png" group-title="Estonia",ETV+ Ⓖ
-http://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1 tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/xuySaSN.png" group-title="Estonia",Riigikogu
-https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Taevas TV7" tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="Estonia",Taevas TV7
-https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="JOJ Family" tvg-logo="https://i.imgur.com/IZHIAAj.png" group-title="Czech Republic",JOJ Family
-https://nn.geo.joj.sk/live/hls/family-540.m3u8
-#EXTINF:-1 tvg-name="Šlágr" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="Czech Republic",Šlágr
-https://stream-6.mazana.tv/slagr.m3u
-#EXTINF:-1 tvg-name="Šlágr 2" tvg-logo="https://i.imgur.com/2rcy4Wo.png" group-title="Czech Republic",Šlágr 2
-https://stream-33.mazana.tv/slagr2.m3u
-#EXTINF:-1 tvg-name="Šlágr Premium" tvg-logo="https://i.imgur.com/Lp0IqDx.png" group-title="Czech Republic",Šlágr Premium
-https://arenasportslovakia.ddns.net/hls/slager.m3u8
-#EXTINF:-1 tvg-name="Prima Ⓖ" tvg-logo="https://i.imgur.com/0aHT2Nj.png"> " group-title="Czech Republic",Prima Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="CNN Prima News Ⓖ" tvg-logo="https://i.imgur.com/Il7t0bU.png"> " group-title="Czech Republic",CNN Prima News Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-logo="https://i.imgur.com/zuzBucZ.png"> " group-title="Czech Republic",Prima Zoom Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Love Ⓖ" tvg-logo="https://i.imgur.com/TOCZc3Y.png"> " group-title="Czech Republic",Prima Love Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima STAR Ⓖ" tvg-logo="https://i.imgur.com/tQGwvNs.png"> " group-title="Czech Republic",Prima STAR Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Krimi Ⓖ" tvg-logo="https://i.imgur.com/Dn2YxrA.png"> " group-title="Czech Republic",Prima Krimi Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-logo="https://i.imgur.com/QaEakvm.png"> " group-title="Czech Republic",Prima MAX Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-logo="https://i.imgur.com/JMHWmcJ.png"> " group-title="Czech Republic",Prima Cool Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Óčko" tvg-logo="https://i.imgur.com/iPmpsnN.png" group-title="Czech Republic",Óčko
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Star" tvg-logo="https://i.imgur.com/tGzQFWw.png" group-title="Czech Republic",Óčko Star
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Expres" tvg-logo="https://i.imgur.com/e731JNS.png" group-title="Czech Republic",Óčko Expres
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Music Television Ⓢ" tvg-logo="https://i.imgur.com/a6S2Yo4.png" group-title="Czech Republic",Retro Music Television Ⓢ
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Yle TV1" tvg-logo="https://i.imgur.com/Hkljcl8.png" group-title="Finland",Yle TV1
-https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
-#EXTINF:-1 tvg-name="Yle TV2  Ⓖ" tvg-logo="https://i.imgur.com/nNElsFg.png" group-title="Finland",Yle TV2  Ⓖ
-http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
 #EXTINF:-1 tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/SAOGSmL.png" group-title="Estonia",ETV Ⓖ
 http://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-name="ETV2 Ⓖ" tvg-logo="https://i.imgur.com/wY6Pz37.png" group-title="Estonia",ETV2 Ⓖ
