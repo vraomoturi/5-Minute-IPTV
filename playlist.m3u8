@@ -1,9 +1,5 @@
 #EXTM3U
-# Built on 1643486069
-#EXTINF:-1 tvg-name="France 24 Spanish" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (ES)",France 24 Spanish
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (ES)",DW Español Ⓢ
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+# Built on 1643486440
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -1576,7 +1572,7 @@ http://109.68.40.67/life/k1_3/index.m3u8
 https://cdn10.live-tv.od.ua:8083/kratu/kratu-abr-lq/kratu/kratu-sub/chunks.m3u8
 #EXTINF:-1 tvg-name="Lale Ⓢ" tvg-logo="https://i.imgur.com/Nv6P5Ds.png" group-title="Ukraine",Lale Ⓢ
 http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 tvg-name="M2 ��" tvg-logo="https://i.imgur.com/IwUc4pC.png" group-title="Ukraine",M2 Ⓢ
+#EXTINF:-1 tvg-name="M2 Ⓢ" tvg-logo="https://i.imgur.com/IwUc4pC.png" group-title="Ukraine",M2 Ⓢ
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-name="NTA" tvg-logo="https://i.imgur.com/AGzWPZv.png" group-title="Ukraine",NTA
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
