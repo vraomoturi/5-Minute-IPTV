@@ -1,15 +1,5 @@
 #EXTM3U
-# Built on 1643477595
-#EXTINF:-1 tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/SAOGSmL.png" group-title="Estonia",ETV Ⓖ
-http://sb.err.ee/live/etv.m3u8
-#EXTINF:-1 tvg-name="ETV2 Ⓖ" tvg-logo="https://i.imgur.com/wY6Pz37.png" group-title="Estonia",ETV2 Ⓖ
-http://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1 tvg-name="ETV+ Ⓖ" tvg-logo="https://i.imgur.com/L8fGd9d.png" group-title="Estonia",ETV+ Ⓖ
-http://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1 tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/xuySaSN.png" group-title="Estonia",Riigikogu
-https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Taevas TV7" tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="Estonia",Taevas TV7
-https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
+# Built on 1643477676
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -24,10 +14,6 @@ https://c.mjh.nz/101002210224/
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" group-title="Australia",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-name="Yle TV1" tvg-logo="https://i.imgur.com/Hkljcl8.png" group-title="Finland",Yle TV1
-https://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/index_4096_av-p.m3u8?sd=6&dw=14400&set-segment-duration=quality&rebase=on
-#EXTINF:-1 tvg-name="Yle TV2  Ⓖ" tvg-logo="https://i.imgur.com/nNElsFg.png" group-title="Finland",Yle TV2  Ⓖ
-https://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/index_4096_av-p.m3u8?sd=6&dw=14400&set-segment-duration=quality&rebase=on
 #EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Belarus",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-name="8 Kanal Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" group-title="Belarus",8 Kanal Vitebsk Ⓢ
