@@ -1704,7 +1704,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 #EXTINF:-1 tvg-name="Spike Ⓢ" tvg-logo="https://i.imgur.com/og6Q9rj.png" group-title="Italy",Spike Ⓢ
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
-#EXTINF:-1 tvg-name="Sky TG 24 Ⓢ" tvg-logo="https://i.imgur.com/q4d3Dah.png" group-title="Italy",Sky TG 24 Ⓢ
+#EXTINF:-1 tvg-name="Sky TG 24 Ⓢ" tvg-logo="https://i.imgur.com/q4d3Dah.png" group-title="Italy",Sky TG 24 ���
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1 tvg-name="TGCOM 24 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/xautVD8.png" group-title="Italy",TGCOM 24 Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf
@@ -1748,7 +1748,7 @@ https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ER
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Italy",Virgin Radio TV Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EW
-#EXTINF:-1 tvg-name="RadioFreccia Ⓢ" tvg-logo="https://i.imgur.com/M5YYJv8.png" group-title="Italy",RadioFreccia Ⓢ
+#EXTINF:-1 tvg-name="RadioFreccia ��" tvg-logo="https://i.imgur.com/M5YYJv8.png" group-title="Italy",RadioFreccia Ⓢ
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 #EXTINF:-1 tvg-name="RDS Social TV Ⓢ" tvg-logo="https://i.imgur.com/TVuu0DH.png" group-title="Italy",RDS Social TV Ⓢ
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
@@ -3424,3 +3424,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Film Detective" tvg-logo="https://i.imgur.com/4aFLH9g.png" group-title="Movies (EN)",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-name="Euronews Live Ⓨ" tvg-logo="https://camo.githubusercontent.com/785a3480a1147c881311d4cd93ffa9f6db9fa04c0411718431bd9d22d07201ae/68747470733a2f2f692e696d6775722e636f6d2f384d73625043552e706e67" group-title="News (EN)",Euronews Live Ⓨ
+https://www.youtube.com/watch?v=sPgqEHsONK8
+#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (EN)",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="DW English Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (EN)",DW English Ⓢ
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News (EN)",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="France 24 Spanish" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (ES)",France 24 Spanish
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (ES)",DW Español Ⓢ
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
