@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1644018028
+# Built on 1644018194
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -1602,7 +1602,7 @@ https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr-lq/playlist.m3u8
 http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF:-1 tvg-name="TBN" tvg-logo="https://i.imgur.com/DHwhdRF.png" group-title="Ukraine",TBN
 http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="TIS TV ���" tvg-logo="https://i.imgur.com/aC01GvC.png" group-title="Ukraine",TIS TV Ⓢ
+#EXTINF:-1 tvg-name="TIS TV Ⓢ" tvg-logo="https://i.imgur.com/aC01GvC.png" group-title="Ukraine",TIS TV Ⓢ
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
 #EXTINF:-1 tvg-name="Treti Cifrovoj Ⓢ" tvg-logo="https://i.imgur.com/nwRBxTR.png" group-title="Ukraine",Treti Cifrovoj Ⓢ
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
