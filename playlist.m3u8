@@ -360,7 +360,7 @@ https://live.rte.ie/live/a/channel3/news.isml/.m3u8
 http://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-name="ETV2 Ⓖ" tvg-logo="https://i.imgur.com/wY6Pz37.png" group-title="Estonia",ETV2 Ⓖ
 http://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1 tvg-name="ETV+ Ⓖ" tvg-logo="https://i.imgur.com/L8fGd9d.png" group-title="Estonia",ETV+ Ⓖ
+#EXTINF:-1 tvg-name="ETV+ ���" tvg-logo="https://i.imgur.com/L8fGd9d.png" group-title="Estonia",ETV+ Ⓖ
 http://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/xuySaSN.png" group-title="Estonia",Riigikogu
 https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
@@ -3230,3 +3230,7 @@ https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News (EN)",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="France 24 Spanish" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (ES)",France 24 Spanish
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (ES)",DW Español Ⓢ
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
