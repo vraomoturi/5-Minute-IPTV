@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1644238196
+# Built on 1644238288
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -1350,7 +1350,7 @@ http://iptv.ktkru.ru:8005/index.m3u8
 http://iptv.ktkru.ru:8006/index.m3u8
 #EXTINF:-1 tvg-name="Россия-24 Ⓢ" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="Russia",Россия-24 Ⓢ
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 tvg-name="��арусель Ⓢ" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="Russia",Карусель Ⓢ
+#EXTINF:-1 tvg-name="Карусель Ⓢ" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="Russia",Карусель Ⓢ
 http://iptv.ktkru.ru:8008/index.m3u8
 #EXTINF:-1 tvg-name="ОТР Ⓢ" tvg-logo="https://i.imgur.com/QyZvT3e.png" group-title="Russia",ОТР Ⓢ
 http://iptv.ktkru.ru:8009/index.m3u8
@@ -1710,7 +1710,7 @@ https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 https://www.youtube.com/watch?v=sPgqEHsONK8
 #EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (EN)",France 24 English
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-name="DW English ��" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (EN)",DW English Ⓢ
+#EXTINF:-1 tvg-name="DW English Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (EN)",DW English Ⓢ
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News (EN)",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
