@@ -2480,7 +2480,7 @@ http://iptv.ktkru.ru:8005/index.m3u8
 http://iptv.ktkru.ru:8006/index.m3u8
 #EXTINF:-1 tvg-name="Россия-24 Ⓢ" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="Russia",Россия-24 Ⓢ
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 tvg-name="Карусель Ⓢ" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="Russia",Карусель Ⓢ
+#EXTINF:-1 tvg-name="Ка��усель Ⓢ" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="Russia",Карусель Ⓢ
 http://iptv.ktkru.ru:8008/index.m3u8
 #EXTINF:-1 tvg-name="ОТР Ⓢ" tvg-logo="https://i.imgur.com/QyZvT3e.png" group-title="Russia",ОТР Ⓢ
 http://iptv.ktkru.ru:8009/index.m3u8
@@ -3120,7 +3120,7 @@ https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1 tvg-name="Kratu Ⓢ" tvg-logo="https://i.imgur.com/NXqO1Qa.png" group-title="Ukraine",Kratu Ⓢ
 https://cdn10.live-tv.od.ua:8083/kratu/kratu-abr-lq/kratu/kratu-sub/chunks.m3u8
-#EXTINF:-1 tvg-name="Lale ��" tvg-logo="https://i.imgur.com/Nv6P5Ds.png" group-title="Ukraine",Lale Ⓢ
+#EXTINF:-1 tvg-name="Lale Ⓢ" tvg-logo="https://i.imgur.com/Nv6P5Ds.png" group-title="Ukraine",Lale Ⓢ
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:-1 tvg-name="M2 Ⓢ" tvg-logo="https://i.imgur.com/IwUc4pC.png" group-title="Ukraine",M2 Ⓢ
 http://live.m2.tv/hls3/stream.m3u8
