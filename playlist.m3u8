@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1645521190
+# Built on 1645521458
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -198,10 +198,6 @@ http://sb.err.ee/live/etvpluss.m3u8
 https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Taevas TV7" tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="Estonia",Taevas TV7
 https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Yle TV1" tvg-logo="https://i.imgur.com/Hkljcl8.png" group-title="Finland",Yle TV1
-https://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/index_4096_av-p.m3u8?sd=6&dw=14400&set-segment-duration=quality&rebase=on
-#EXTINF:-1 tvg-name="Yle TV2  Ⓖ" tvg-logo="https://i.imgur.com/nNElsFg.png" group-title="Finland",Yle TV2  Ⓖ
-https://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/index_4096_av-p.m3u8?sd=6&dw=14400&set-segment-duration=quality&rebase=on
 #EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png" group-title="France",TF1
 https://s6.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png" group-title="France",France 2
