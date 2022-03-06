@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1646541016
+# Built on 1646541307
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -542,7 +542,7 @@ https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-name="Top Crime Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/RFIwv9O.png" group-title="Italy",Top Crime Ⓢ Ⓖ
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lt
-#EXTINF:-1 tvg-name="BOING Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/niSlrqT.png" group-title="Italy",BOING Ⓢ ���
+#EXTINF:-1 tvg-name="BOING Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/niSlrqT.png" group-title="Italy",BOING Ⓢ Ⓖ
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kb
 #EXTINF:-1 tvg-name="Rai Gulp Ⓖ" tvg-logo="https://i.imgur.com/lu1DPVb.png" group-title="Italy",Rai Gulp Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
