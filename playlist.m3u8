@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1646727908
+# Built on 1646728219
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -272,7 +272,7 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 https://s6.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png" group-title="France",L'Équipe
 https://s6.tntendirect.com/lequipe21/live/playlist.m3u8
-#EXTINF:-1 tvg-name="RMC D��couverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",RMC Découverte
+#EXTINF:-1 tvg-name="RMC Découverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",RMC Découverte
 https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Chérie 25" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="France",Chérie 25
 https://s6.tntendirect.com/cherie25/live/playlist.m3u8
@@ -566,6 +566,8 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-name="Mediaset Extra Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="Italy",Mediaset Extra Ⓢ Ⓖ
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq
+#EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Italy",Rai Scuola Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-name="Rai Sport + Ⓖ" tvg-logo="https://i.imgur.com/vD0CDEp.png" group-title="Italy",Rai Sport + Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" group-title="Italy",Motor Trend
@@ -592,14 +594,10 @@ https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 tvg-name="RadioItaliaTV Ⓢ" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="Italy",RadioItaliaTV Ⓢ
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Italy",Rai Scuola Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/qxu8Fkh.png" group-title="Italy",Radio KISS KISS TV
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.imgur.com/5ONlZGS.png" group-title="Italy",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-name="Virgin Radio TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Italy",Virgin Radio TV Ⓢ Ⓖ
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew
 #EXTINF:-1 tvg-name="RadioFreccia Ⓢ" tvg-logo="https://i.imgur.com/M5YYJv8.png" group-title="Italy",RadioFreccia Ⓢ
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 #EXTINF:-1 tvg-name="RDS Social TV Ⓢ" tvg-logo="https://i.imgur.com/TVuu0DH.png" group-title="Italy",RDS Social TV Ⓢ
@@ -608,6 +606,8 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Italy",Radio Montecarlo TV Ⓢ Ⓖ
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb
+#EXTINF:-1 tvg-name="Virgin Radio TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Italy",Virgin Radio TV Ⓢ Ⓖ
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew
 #EXTINF:-1 tvg-name="Grande Fratello Vip Regia 1 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/PBTdU4G.png" group-title="Italy",Grande Fratello Vip Regia 1 Ⓢ Ⓖ
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7
 #EXTINF:-1 tvg-name="Grande Fratello Vip Regia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/FKfwbHD.png" group-title="Italy",Grande Fratello Vip Regia 2 Ⓢ Ⓖ
@@ -991,8 +991,6 @@ https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Argento/Magic Tv" tvg-logo="https://i.imgur.com/gseTf4W.jpg" group-title="Italy",Tele Argento/Magic Tv
 http://163.172.88.73:1935/magic_web/site/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" group-title="Italy",Tele Bari
-http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" group-title="Italy",Tele Bari
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Belluno" tvg-logo="https://i.imgur.com/YiM2Z7E.png" group-title="Italy",Tele Belluno
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
@@ -1066,8 +1064,6 @@ http://ciaoitalystream.ddns.net/live/webTELEOCCIDENTEweb/montelepre@palermo/2.m3
 http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
 #EXTINF:-1 tvg-name="Tele One" tvg-logo="https://i.imgur.com/hTDDVOQ.png" group-title="Italy",Tele One
 http://live.streamcaster.net:1935/mediaone_live/teleone/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Pace" tvg-logo="https://i.imgur.com/TnrqB33.png" group-title="Italy",Tele Pace
-http://live-fs.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Pace 1" tvg-logo="https://i.imgur.com/ut0Hg8o.png" group-title="Italy",Tele Pace 1
 https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
 #EXTINF:-1 tvg-name="Tele Pace 2" tvg-logo="https://i.imgur.com/RqrPraO.png" group-title="Italy",Tele Pace 2
