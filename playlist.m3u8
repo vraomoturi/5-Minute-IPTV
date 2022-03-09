@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1646866528
+# Built on 1646867128
 #EXTINF:-1 tvg-name="FilmRise Movies" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="VOD Movies (EN)",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="VOD Movies (EN)",FilmRise Sci-Fi
@@ -64,10 +64,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
 https://youtu.be/ns8-5XKA0Ww
-#EXTINF:-1 tvg-name="France 24 Spanish" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (ES)",France 24 Spanish
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (ES)",DW Español Ⓢ
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" group-title="Australia",ABC
 https://c.mjh.nz/101002210221/
 #EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" group-title="Australia",TVSN
@@ -78,3 +74,33 @@ https://c.mjh.nz/101002210224/
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" group-title="Australia",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-name="France 24 Spanish" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (ES)",France 24 Spanish
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (ES)",DW Español Ⓢ
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-name="ORF 1 Ⓖ" tvg-logo="https://i.imgur.com/ft2LuRl.jpg" group-title="Austria",ORF 1 Ⓖ
+https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF 2  Ⓖ" tvg-logo="https://i.imgur.com/yPVDaXv.png" group-title="Austria",ORF 2  Ⓖ
+https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF III   Ⓖ" tvg-logo="https://i.imgur.com/6BuiUE7.png" group-title="Austria",ORF III   Ⓖ
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF Sport +  Ⓖ" tvg-logo="https://i.imgur.com/MVNZ4gf.png" group-title="Austria",ORF Sport +  Ⓖ
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="Servus TV    Ⓖ" tvg-logo="https://i.imgur.com/zDWhSxq.png" group-title="Austria",Servus TV    Ⓖ
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
+#EXTINF:-1 tvg-name="oe24" tvg-logo="https://i.imgur.com/8UTkcPn.png" group-title="Austria",oe24
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
+#EXTINF:-1 tvg-name="W24" tvg-logo="https://i.imgur.com/PGb4wYw.png" group-title="Austria",W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="M4TV" tvg-logo="https://i.imgur.com/HZohlNk.png" group-title="Austria",M4TV
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="P3TV" tvg-logo="https://i.imgur.com/1sPhZ57.png" group-title="Austria",P3TV
+http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.imgur.com/oD7GQxT.png" group-title="Austria",RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-name="RTS  Ⓖ" tvg-logo="https://i.imgur.com/Bhv7lvy.png" group-title="Austria",RTS  Ⓖ
+https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
+#EXTINF:-1 tvg-name="Tirol TV   Ⓖ" tvg-logo="https://i.imgur.com/1E7Nflo.jpg" group-title="Austria",Tirol TV   Ⓖ
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1 tvg-name="R9" tvg-logo="https://i.imgur.com/2fxVYsL.jpg" group-title="Austria",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
