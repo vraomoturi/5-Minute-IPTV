@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1648125309
+# Built on 1648125616
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -184,9 +184,9 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" group-title="Czech Republic",JOJ Family Ⓢ
 https://live.cdn.joj.sk/live/hls/family-540.m3u8
-#EXTINF:-1 tvg-name="Šlágr Ⓢ" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="Czech Republic",Šlágr Ⓢ
+#EXTINF:-1 tvg-name="Šlágr Originál Ⓢ" tvg-logo="https://i.imgur.com/fQcx9S2.png" group-title="Czech Republic",Šlágr Originál Ⓢ
 https://stream-6.mazana.tv/slagr.m3u
-#EXTINF:-1 tvg-name="Šlágr 2 Ⓢ" tvg-logo="https://i.imgur.com/2rcy4Wo.png" group-title="Czech Republic",Šlágr 2 Ⓢ
+#EXTINF:-1 tvg-name="Šlágr Muzika Ⓢ" tvg-logo="https://i.imgur.com/J9YHDVS.png" group-title="Czech Republic",Šlágr Muzika Ⓢ
 https://stream-33.mazana.tv/slagr2.m3u
 #EXTINF:-1 tvg-name="Šlágr Premium Ⓢ" tvg-logo="https://i.imgur.com/Lp0IqDx.png" group-title="Czech Republic",Šlágr Premium Ⓢ
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
@@ -272,7 +272,7 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 https://s6.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png" group-title="France",L'Équipe
 https://s6.tntendirect.com/lequipe21/live/playlist.m3u8
-#EXTINF:-1 tvg-name="RMC D��couverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",RMC Découverte
+#EXTINF:-1 tvg-name="RMC Découverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",RMC Découverte
 https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Chérie 25" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="France",Chérie 25
 https://s6.tntendirect.com/cherie25/live/playlist.m3u8
@@ -606,7 +606,7 @@ https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-name="Radio ZETA Ⓢ" tvg-logo="https://i.imgur.com/0MgCm1n.png" group-title="Italy",Radio ZETA Ⓢ
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Italy",Radio Montecarlo TV Ⓢ Ⓖ
+#EXTINF:-1 tvg-name="Radio Montecarlo TV ��� Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Italy",Radio Montecarlo TV Ⓢ Ⓖ
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Italy",Virgin Radio TV Ⓢ Ⓖ
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew
