@@ -1,5 +1,5 @@
 #EXTM3U
-# Built on 1648706711
+# Built on 1648707015
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
@@ -480,6 +480,16 @@ https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/playlist.m3u
 https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
 #EXTINF:-1 tvg-name="Zagros TV" tvg-logo="https://i.imgur.com/UjIuIQX.png" group-title="Iraq",Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 1" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 1
+http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
+#EXTINF:-1 tvg-name="TG4" tvg-logo="https://i.imgur.com/Etm3Kgq.png" group-title="Ireland",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 2" tvg-logo="https://i.imgur.com/qs8LY2M.png" group-title="Ireland",Virgin Media 2
+http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 3" tvg-logo="https://i.imgur.com/SSbPIDZ.png" group-title="Ireland",Virgin Media 3
+http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
+#EXTINF:-1 tvg-name="RTE News" tvg-logo="https://i.imgur.com/OisW3m0.png" group-title="Ireland",RTE News
+https://live.rte.ie/live/a/channel3/news.isml/.m3u8
 #EXTINF:-1 tvg-name="Rai 1 Ⓖ" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="Italy",Rai 1 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1 tvg-name="Rai 2 Ⓖ" tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="Italy",Rai 2 Ⓖ
@@ -1382,7 +1392,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802e86a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60db3bbd9397a00007ab029a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Super! Spongebob – Pluto TV" tvg-logo="https://i.imgur.com/vFiwODM.png" group-title="Italy",Super! Spongebob – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Super! Brothers and Sisters – Pluto TV" tvg-logo="https://i.imgur.com/KSQvVye.png" group-title="Italy",Super! Brothers and Sisters – Pluto TV
+#EXTINF:-1 tvg-name="Super! Brothers and Sisters – Pluto TV" tvg-logo="https://i.imgur.com/KSQvVye.png" group-title="Italy",Super! Brothers and Sisters �� Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Super! Mystery – Pluto TV" tvg-logo="https://i.imgur.com/6So6078.png" group-title="Italy",Super! Mystery – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6192624035f3910007fc7305/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
